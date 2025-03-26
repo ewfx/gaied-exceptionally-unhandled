@@ -1,3 +1,1 @@
-## Delete this file
-
-Instead place your source files here
+This folder contains the Multi-Agent Agentic AI python code using Gemini model
