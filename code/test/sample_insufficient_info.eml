@@ -1,0 +1,29 @@
+Subject: Urgent: Service Request - Immediate Attention Required
+From: client@business.com
+To: support@bank.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5894891323144175893=="
+
+--===============5894891323144175893==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+Dear Support Team,
+
+Please find attached the document related to our recent transaction. Let me k=
+now if you need further details.
+
+Best regards,
+Client Relations
+
+--===============5894891323144175893==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Transaction_Info.txt"
+MIME-Version: 1.0
+
+VHJhbnNhY3Rpb24gRGV0YWlsczogQW1vdW50IC0gJDUwMDAKRGF0ZSAtIDIybmQgTWFyY2ggMjAy
+NQpSZWZlcmVuY2UgSUQ6IFRYTjEyMzQ1
+
+--===============5894891323144175893==--
