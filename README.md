@@ -110,15 +110,15 @@ Describe the major technical or non-technical challenges your team encountered.
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-repo.git
+   https://github.com/ewfx/gaied-exceptionally-unhandled/tree/main
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   pip install -r requirements.txt
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+   streamlit run app.py
    ```
 
 ## 🏗️ Tech Stack
