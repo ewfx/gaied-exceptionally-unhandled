@@ -138,7 +138,7 @@ After resolving all the package & Gemini model errors at each stage, we faced th
    ```
 3. Run the project  
    ```sh
-   streamlit run app.py
+   streamlit run .\emailClassification_agenticAI.py
    ```
 
 ## 🏗️ Tech Stack
