@@ -122,11 +122,17 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+✅ Python – Core language
+
+✅ LangChain – For prompt chaining and AI logic
+
+✅ Streamlit – For interactive UI
+
+✅ PyPDF2 / python-docx – For PDF and .docx extraction
+
+✅ Google GenerativeAI – For Gemini model integration
+
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Rohini Ramachandran** - [GitHub](#) | [LinkedIn](#)
+- **Raghuram Nandepu** - [GitHub](#) | [LinkedIn](#)
