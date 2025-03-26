@@ -35,7 +35,19 @@ Agentic AI can:
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
+Email .eml file as input:
+
+![image](https://github.com/user-attachments/assets/c7954877-9180-47ff-aca4-c8b2df91f798)
+
+WORD Doc as Input:
+
+![image](https://github.com/user-attachments/assets/2f7e722e-717b-4da8-b046-de315c9b6e57)
+
+
+PDF Doc as Input:
+
+![image](https://github.com/user-attachments/assets/bf6a451f-d339-4898-9fc5-3e4c914d16dc)
+
 
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
@@ -63,6 +75,33 @@ Proposed solution uses agents performing:
 
 ## 🛠️ How We Built It
 Briefly outline the technologies, frameworks, and tools used in development.
+
+Development phases:
+**Phase 1:** Requirement Analysis & Problem Understanding:
+Went through the hackathon problem statement & sample templates of emails along with output format that’s expected to accurately classify emails into service request types (e.g., AU Transfer, Fee Payment, etc.). Detect duplicate emails to reduce redundant processing.  Handle content from both email bodies and attachments.
+
+**Phase2:** Data Collection & Preparation:
+Googled and found different templates for commercial banking service requests
+Used ChatGPT to generate some of the data samples in required file formats of .docx, .pdf & .eml files with & without attachments
+
+**Phase 3:** Designed a Multi-agent system using LLM models to generate. Here are the core agents:
+
+	• Input Extraction Agent: Extracts content from email bodies and attachments.
+	• Preprocessing Agent: Normalizes content for improved accuracy.
+	• Classification Agent: Uses Gemini or LLaMA for intelligent content analysis.
+	• Duplicate Detection Agent: Flags repeated content using hashing or semantic comparison.
+	• Confidence Scoring Agent: Evaluates model certainty for accurate prioritization.
+
+**Phase 4:** Model Selection & Fine-Tuning. 
+Based on the prompt results, we opted for Gemini Pro model for advanced NLU when compared with llama2 models output.
+For Prompt Engineering: Created detailed prompts for optimal classification.
+Design rules for keywords like “AU Transfer,” “Fee Payment,” etc.
+
+**Phase 5:** LangChain & Streamlit Integration
+LangChain was used to streamline the prompt engineering, LLM interaction, and classification logic.
+The chain was used to process extracted email content and generate predictions.
+Streamlit was used to build an interactive UI for seamless user interaction, testing, and result visualization.
+
 
 ## 🚧 Challenges We Faced
 Describe the major technical or non-technical challenges your team encountered.
