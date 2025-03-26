@@ -57,8 +57,8 @@ Proposed solution uses agents performing:
 	• Duplicate Detection Agent (Email Uniqueness Checker), Role: Prevents redundant email processing by identifying duplicates.
  
 	• Confidence Scoring Agent (Trustworthiness Evaluator), Role: Assigns a confidence score to each classification based on content quality and keyword strength.
- 
- Output Aggregator Agent (Result Builder), Role: Consolidates outputs from all agents to deliver a structured result.
+
+ 	• Output Aggregator Agent (Result Builder), Role: Consolidates outputs from all agents to deliver a structured result.
 
 
 ## 🛠️ How We Built It
