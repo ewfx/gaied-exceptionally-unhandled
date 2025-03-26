@@ -31,8 +31,8 @@ Agentic AI can:
 
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+
+📹 [Video Demo](#) : https://github.com/ewfx/gaied-exceptionally-unhandled/blob/main/artifacts/demo/Streamlit_APP_Recoding.zip
 🖼️ Screenshots:
 
 Email .eml file as input:
