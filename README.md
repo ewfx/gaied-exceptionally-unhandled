@@ -36,16 +36,16 @@ Agentic AI can:
 
 🖼️ Screenshots:
 
-Email .eml file as input:
+_Email .eml file as input:_
 
 ![image](https://github.com/user-attachments/assets/c7954877-9180-47ff-aca4-c8b2df91f798)
 
-WORD Doc as Input:
+_WORD Doc as Input:_
 
 ![image](https://github.com/user-attachments/assets/2f7e722e-717b-4da8-b046-de315c9b6e57)
 
 
-PDF Doc as Input:
+_PDF Doc as Input:_
 
 ![image](https://github.com/user-attachments/assets/bf6a451f-d339-4898-9fc5-3e4c914d16dc)
 
