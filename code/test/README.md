@@ -1,3 +1,1 @@
-## Delete this file
-
-Instead place your test files here
+This folder contains the test sample files generated using ChatGPT
