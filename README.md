@@ -77,6 +77,7 @@ Proposed solution uses agents performing:
 Briefly outline the technologies, frameworks, and tools used in development.
 
 Development phases:
+
 **Phase 1:** Requirement Analysis & Problem Understanding:
 Went through the hackathon problem statement & sample templates of emails along with output format that’s expected to accurately classify emails into service request types (e.g., AU Transfer, Fee Payment, etc.). Detect duplicate emails to reduce redundant processing.  Handle content from both email bodies and attachments.
 
