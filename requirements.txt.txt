@@ -1,0 +1,11 @@
+langchain
+python-docx
+streamlit
+PyPDF2<3.0
+langchain_community
+google-generativeai
+transformers
+huggingface_hub
+python-dotenv
+tensorflow
+pydantic
