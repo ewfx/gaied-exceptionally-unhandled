@@ -22,8 +22,11 @@ While Generative AI (like Gemini, GPT, and LLaMA) focuses on content creation ba
 Agentic AI can:
 
 ✅ Break down complex tasks into smaller steps.
+
 ✅ Strategically decide which tools, APIs, or functions to use.
+
 ✅ Adapt to changing conditions during runtime.
+
 ✅ Maintain context and learn from previous actions.
 
 
