@@ -49,11 +49,16 @@ Explain the key features and functionalities of your project.
 The multi-agent AI architecture employed here follows a structured yet flexible design, where specialized agents are assigned distinct tasks. This method breaks down the email classification challenge into modular steps, improving accuracy, efficiency, and scalability.
 Proposed solution uses agents performing:
 	•  Input Extraction Agent (Content & Attachment Processor), Role: Extracts text from email bodies, attachments, and metadata
+ 
 	•  Preprocessing Agent (Normalization & Cleaning), Role: Cleans and normalizes extracted text for consistency.
+ 
 	• Classification Agent (Service Request Identifier), Role: Identifies the service request type based on content context.
+ 
 	• Duplicate Detection Agent (Email Uniqueness Checker), Role: Prevents redundant email processing by identifying duplicates.
+ 
 	• Confidence Scoring Agent (Trustworthiness Evaluator), Role: Assigns a confidence score to each classification based on content quality and keyword strength.
-Output Aggregator Agent (Result Builder), Role: Consolidates outputs from all agents to deliver a structured result.
+ 
+ Output Aggregator Agent (Result Builder), Role: Consolidates outputs from all agents to deliver a structured result.
 
 
 ## 🛠️ How We Built It
