@@ -26,6 +26,9 @@ A brief overview of your project and its purpose. Mention which problem statemen
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
 
+Looking into the current challenges a bank as an organization faces, we observed that manually extracting content from email and classifying them into different categories is one of the tedious job a person has to do. Though the content might be different in terms of an email, but building a solution could also solve many such problems dealing with text classification.![image](https://github.com/user-attachments/assets/5769c497-0c9d-4d77-8fcf-e52a42647246)
+
+
 ## ⚙️ What It Does
 Explain the key features and functionalities of your project.
 
