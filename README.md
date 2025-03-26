@@ -107,6 +107,25 @@ Streamlit was used to build an interactive UI for seamless user interaction, tes
 ## 🚧 Challenges We Faced
 Describe the major technical or non-technical challenges your team encountered.
 
+Very first challenge we faced was in getting the virtual environment ready with all the required libraries for the more advanced Generative AI approach for creating multi-agents. Here are some of the error snippets which were resolved
+
+![image](https://github.com/user-attachments/assets/3c2c6f95-f236-4263-8df0-9adbb5ccda90)
+
+![image](https://github.com/user-attachments/assets/e11e4d07-84f4-4fe5-ba14-61b5b9e84b83)
+
+![image](https://github.com/user-attachments/assets/91cb1679-0660-4a8b-a3f1-474f838bdc2f)
+
+![image](https://github.com/user-attachments/assets/e404da1b-a5e2-42bd-989a-a162d0b5fdb8)
+
+
+After resolving all the package & Gemini model errors at each stage, we faced the challenge of output result always returning an "Unknown" response on streamlit UI
+
+**That's when we included detailed prompt + keywords in the agents**__
+
+![image](https://github.com/user-attachments/assets/61a013f2-4f0c-461c-8b24-a7695c717d7a)
+
+
+
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
